@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Editor/CameraViewer.cs">
+    <Files>
+      <File FileName="../../../../Downloads/Scripts/Component/CustomButton.cs" Line="1" Column="1" />
+      <File FileName="../../../../Downloads/Scripts/Controller/SNSController.cs" Line="230" Column="1" />
+      <File FileName="../../../../Downloads/Scripts/Controller/TopSeccond/TopSecondController.cs" Line="232" Column="1" />
+      <File FileName="../wewewolf/werewolf_GM/Assets/Scripts/Util/CustomXMLSerializer .cs" Line="44" Column="1" />
+      <File FileName="Assets/Editor/MyWindow.cs" Line="12" Column="1" />
+      <File FileName="Assets/Editor/AllDelete.cs" Line="16" Column="1" />
+      <File FileName="Assets/Editor/CameraViewer.cs" Line="31" Column="24" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
